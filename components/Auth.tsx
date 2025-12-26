@@ -1,4 +1,3 @@
-
 import React, { useState } from 'react';
 import { supabase } from '../services/supabaseClient.ts';
 import { Sparkles, AlertCircle, ShieldCheck, UserCircle, Settings } from 'lucide-react';
