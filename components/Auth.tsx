@@ -94,7 +94,7 @@ const Auth: React.FC<AuthProps> = ({ onGuestStart }) => {
               <p className="text-[11px] font-bold text-left leading-relaxed">{error}</p>
               <div className="mt-3 pt-3 border-t border-rose-100/50 flex items-center space-x-2 text-[10px] font-black text-rose-400">
                 <Settings size={12} />
-                <span>Supabase Dashboard > Auth > Providers</span>
+                <span>Supabase Dashboard &gt; Auth &gt; Providers</span>
               </div>
             </div>
           )}
